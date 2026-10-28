@@ -1,0 +1,6 @@
+PH0001	Quantum mechanics	Griffith	ABC Publications	5
+LS0001	Biochemistry	Lehninger	Oxford Press	7
+CH0001	Physical Organic Chemistry	Atkins	JJ Press	10
+PS0001	Introduction to algorithms	Udi Manber CS Publications	6
+MA0001	Linear Algebra	Gilbert Arnord	Publications	2
+EG0001	Merchant Of Venice	Shakespeare	HGD Press	14
